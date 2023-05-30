@@ -1,3 +1,4 @@
 # SuperTabuada
  Tabuada capaz de executar infinitos cálculos. Vamos testar!
- Vou deixar aqui o link para acesso! ... 
+ 
+ Link para acesso: https://itatelino.github.io/SuperTabuada/
